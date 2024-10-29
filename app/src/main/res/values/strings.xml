@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PMDM_Tarea1</string>
+    <string name="myName">La primera aplicación de\nJuan Pedro Ruiz Rabadán</string>
+    <string name="myButton">Finalizar</string>
+</resources>
